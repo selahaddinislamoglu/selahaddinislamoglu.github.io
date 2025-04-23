@@ -3,6 +3,8 @@
 }
 
 .top-navbar {
-    display: none;
-    visibility: hidden;
+    &.transparent-navbar {
+        display: none;
+        visibility: hidden;
+    }
 }
