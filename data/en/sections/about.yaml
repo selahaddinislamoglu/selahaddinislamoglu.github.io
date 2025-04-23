@@ -19,14 +19,14 @@ designation: Software Developer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software developer with 8 years of working experience.""
+summary: 'I am a passionate software developer with 8 years of working experience.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "islamogluselahaddin@gmail.com"
+  url: "mailto:islamogluselahaddin@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
@@ -61,3 +61,4 @@ resourceLinks:
 #   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
+
