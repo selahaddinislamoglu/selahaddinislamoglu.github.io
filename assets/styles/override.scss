@@ -1,5 +1,17 @@
-.background {
-    filter: none !important;
+.home {
+    .background {
+        filter: none !important;
+    }
+
+    .arrow-center {
+        height: 50px !important;
+        width: 50px !important;
+    }
+
+    img {
+        width: 256px !important;
+        height: 256px !important;
+    }
 }
 
 .top-navbar {
@@ -7,9 +19,4 @@
         display: none !important;
         visibility: hidden !important;
     }
-}
-
-.arrow-center {
-    height: 50px !important;
-    width: 50px !important;
 }
