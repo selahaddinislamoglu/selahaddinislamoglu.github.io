@@ -13,7 +13,7 @@ menu:
 {{< note title="Variable" >}}
 
 ```bash
-NAME="John"
+NAME="Selahaddin"
 echo $NAME
 echo "$NAME"
 echo "${NAME}
