@@ -1,6 +1,6 @@
 # some information about you
 name: "Selahaddin Islamoglu"
-nickname: "Selahaddin"
+# nickname: "Selahaddin"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Welcome!"
 image: "images/author/selahaddin.jpg"
