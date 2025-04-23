@@ -52,6 +52,8 @@ enableEmoji: true
 
 # Site parameters
 params:
+  customCSS:
+    - css/custom.css
   # Background image of the landing page
   background: /images/site/ovit.jpg
   # Background image of the landing page for dark theme
