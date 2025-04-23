@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en
-title: "Selahaddin's Blog"
+title: "Selahaddin Islamoglu"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Selahaddin's Blog"
+    title: "Selahaddin Islamoglu"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
@@ -71,7 +71,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 10
 
   # Configure various features of this theme
   features:

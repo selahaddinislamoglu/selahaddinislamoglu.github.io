@@ -22,7 +22,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Selahaddin's Blog
+  title: Selahaddin Islamoglu
   type: website
   description: Portfolio of Selahaddin Islamoglu.
   image: images/author/john.png
