@@ -2,7 +2,7 @@
 name: "Selahaddin Islamoglu"
 nickname: "Selahaddin"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Welcome!"
 image: "images/author/selahaddin.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -12,7 +12,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - Welcome
+  - Hi, I am Selahaddin
   - I am a Software Developer
-  - I love to work with some fun projects
   - I live in Rize, Turkey
