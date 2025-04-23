@@ -2,6 +2,12 @@
     filter: none !important;
 }
 
-&.transparent-navbar {
-    background-color: get-dark-color('bg-primary') !important;
+.top-navbar {
+    html[data-theme='dark'] & {
+        background-color: get-dark-color('bg-primary') !important;
+    }
+
+    html[data-theme='light'] & {
+        background-color: get-light-color('bg-primary') !important;
+    }
 }
