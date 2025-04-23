@@ -1,15 +1,3 @@
 .background {
     filter: none !important;
 }
-
-.top-navbar {
-    html[data-theme='dark'] & {
-        background-color: get-dark-color('bg-primary') !important;
-        color: get-dark-color('heading-color');
-    }
-
-    html[data-theme='light'] & {
-        background-color: get-light-color('bg-primary') !important;
-        color: get-light-color('heading-color');
-    }
-}
