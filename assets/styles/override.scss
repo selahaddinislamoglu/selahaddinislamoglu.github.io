@@ -1,3 +1,7 @@
 .background {
     filter: none !important;
 }
+
+&.transparent-navbar {
+    background-color: get-dark-color('bg-primary') !important;
+}
