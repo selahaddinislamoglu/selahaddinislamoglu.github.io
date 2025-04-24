@@ -59,7 +59,8 @@ experiences:
     name: NETAS Telecommunication Inc.
     url: "https://netas.com.tr"
     location: Istanbul, Turkey
-    logo: /images/sections/experiences/netaslogo.png
+    logo: /images/sections/experiences/netas-logo-light.png
+    darkLogo: /images/sections/experiences/netas-logo-dark.png
     overview: TBD
 
   positions:
