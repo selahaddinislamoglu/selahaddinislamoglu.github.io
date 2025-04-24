@@ -16,9 +16,8 @@ degrees:
   institution:
     name: Istanbul Technical University
     url: "#"
-    logo: /images/sections/education/itu-logo-big.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
+    logo: /images/sections/education/logo_laci.png
+    darkLogo: /images/sections/education/logo_beyaz.png
   #grade: #(optional)
   #  scale: CGPA
   #  achieved: 3.6
