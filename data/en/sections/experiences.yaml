@@ -59,8 +59,8 @@ experiences:
     name: NETAS Telecommunication Inc.
     url: "https://netas.com.tr"
     location: Istanbul, Turkey
-    logo: /images/sections/experiences/company3.jpg
-    overview: Company overview: TBD
+    logo: /images/sections/experiences/netaslogo.png
+    overview: TBD
 
   positions:
   - designation: Software Developer
