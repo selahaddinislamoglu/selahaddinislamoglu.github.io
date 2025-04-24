@@ -59,10 +59,8 @@ experiences:
     name: NETAS Telecommunication Inc.
     url: "https://netas.com.tr"
     location: Istanbul, Turkey
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: TBD
+    logo: /images/sections/experiences/netas-logo.png
+    overview: Company overview: TBD
 
   positions:
   - designation: Software Developer
@@ -72,6 +70,9 @@ experiences:
     -  'WebRTC – SIP Gateway:  Employed by Netas to develop Ribbon VoIP solutions. Developed RTP media transportation layer capabilities and performance enhancement. Worked with communication protocols such as SIP, WebRTC, STUN, TURN, RTP, and RTCP. Implemented media layer modules for user space Linux applications using C programming. Gained experience in Java by contributing to the development of signaling modules for the gateway.'
   
   - designation: Military Service Break
+    start: Dec 2017
+    end: June 2018
+    responsibilities:
 
   - designation: Software Developer
     start: Aug 2015
