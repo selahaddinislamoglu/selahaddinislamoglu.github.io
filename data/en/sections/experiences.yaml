@@ -56,18 +56,26 @@ experiences:
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
+    name: NETAS Telecommunication Inc.
+    url: "https://netas.com.tr"
+    location: Istanbul, Turkey
     logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: TBD
+    
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Software Developer
+    start: Aug 2018
+    end: Jun 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    -  WebRTC – SIP Gateway:  Employed by Netas to develop Ribbon VoIP solutions. Developed RTP media transportation layer capabilities and performance enhancement. Worked with communication protocols such as SIP, WebRTC, STUN, TURN, RTP, and RTCP. Implemented media layer modules for user space Linux applications using C programming. Gained experience in Java by contributing to the development of signaling modules for the gateway.
+  
+  - designation: Military Service Break
+
+  - designation: Software Developer
+    start: Aug 2015
+    end: Dec 2017
+    responsibilities:
+    -  Multi Access EDGE Computing Gateway: R&D project; Participated in edge gateway module implementation for the newly announced MEC standard. Developed a NETCONF configuration module for efficient configuration management. Used C to develop user space applications on Linux
+    -  OneM2M IoT Gateway: R&D project; Participated in gateway module implementation for the newly announced OneM2M standard. Developed registration and data storage algorithms and created. Used C to develop user space applications on Linux.
