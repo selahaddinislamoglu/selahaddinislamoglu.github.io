@@ -15,7 +15,7 @@ degrees:
   timeframe: 2009-2014
   institution:
     name: Istanbul Technical University
-    url: "#"
+    url: "https://www.itu.edu.tr"
     logo: /images/sections/education/logo_laci.png
     darkLogo: /images/sections/education/logo_beyaz.png
   #grade: #(optional)
