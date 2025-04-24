@@ -10,8 +10,8 @@ experiences:
     name: Orion Innovation Inc.
     url: "https://www.orioninc.com/"
     location: Remote - Turkiye
-    logo: /images/sections/experiences/orion-light.jpg
-    darkLogo: /images/sections/experiences/orion-dark.jpg
+    logo: /images/sections/experiences/orion-light.png
+    darkLogo: /images/sections/experiences/orion-dark.png
     overview: TBD
   positions:
   - designation: Senior Software Developer
