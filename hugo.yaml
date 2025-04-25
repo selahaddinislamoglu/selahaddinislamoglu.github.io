@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/islamoglu/islamoglu.github.io
+  gitRepo: https://github.com/selahaddinislamoglu/selahaddinislamoglu.github.io
   # Default branch of your Git repo
   gitBranch: main
 

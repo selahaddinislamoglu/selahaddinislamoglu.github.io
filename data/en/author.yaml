@@ -6,9 +6,9 @@ greeting: "Welcome"
 image: "images/author/selahaddin.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "islamogluselahaddin@gmail.com"
-  github: islamoglu
-  linkedin: islamoglus
+  email: "selahaddinislamoglu@gmail.com"
+  github: selahaddinislamoglu
+  linkedin: selahaddinislamoglu
 
 # some summary about what you do
 summary:
