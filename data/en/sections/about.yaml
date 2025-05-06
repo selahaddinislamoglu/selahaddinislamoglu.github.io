@@ -19,7 +19,7 @@ designation: Software Developer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Software Developer with over 7 years of expertise in developing communication applications, firmware, and software solutions. Demonstrated proficiency in collaborating effectively with diverse international teams. Highly skilled in C programming for Linux and RTOS platforms. Experienced in C++ and Go.'
+summary: '8 years of expertise in developing communication applications, software, and firmware solutions. Demonstrated proficiency in collaborating effectively with diverse international teams. Highly skilled in C and C++ programming for Linux and RTOS platforms. Introductory experience in Go, Java, and JavaScript (Node.js)'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,8 +39,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+- title: "Resume"
+  url: "https://selahaddinislamoglu.github.io/resume"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
