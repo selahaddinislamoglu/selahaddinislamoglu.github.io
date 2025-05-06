@@ -23,8 +23,13 @@ buttons:
 # your projects
 projects:
 - name: Avaya - Contact Center Extended Capacity
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
   url: "https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html"
   summary: Single-server solution for large contact centers supporting 30,000 agents and 60,000 UC users with up to 57,000 calls concurrently
+  tags: ["professional", "machine-learning"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
