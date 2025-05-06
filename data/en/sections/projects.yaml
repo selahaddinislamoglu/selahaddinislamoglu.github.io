@@ -23,7 +23,7 @@ buttons:
 # your projects
 projects:
 - name: Avaya - Contact Center Extended Capacity
-  url: https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html
+  url: "https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html"
   summary: Single-server solution for large contact centers supporting 30,000 agents and 60,000 UC users with up to 57,000 calls concurrently
 
 - name: Tensorflow
