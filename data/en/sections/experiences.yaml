@@ -12,19 +12,25 @@ experiences:
     location: Remote - Turkiye
     logo: /images/sections/experiences/orion-light.png
     darkLogo: /images/sections/experiences/orion-dark.png
-    overview: TBD
+    #overview: TBD
   positions:
-  - designation: Senior Software Developer
+  - designation: Software Developer
     start: Jul 2023
     end: Mar 2025
     responsibilities:
-    -  Contact Center ACD
-    -  Employed by Orion to develop Avaya VoIP solutions.
-    -  Engaged in close collaboration with international teams. 
-    -  Addressed feature bugs throughout the production phase. 
-    -  Enhanced OpenSIPS call processing logics. 
-    -  Developer analytics features for billing purposes. 
-    -  Utilized C++ programming to develop user-space Linux applications
+    -  'Project: Contact Center Automatic Call Distribution'
+    -  ' '
+    -  Worked for [Avaya - Contact Center Extended Capacity](https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html) product on the behalf of Orion Innovation.
+    -  Participated in the takeover of a legacy project from a third-party vendor; contributed to resolving inherited technical issues during the transition.
+    -  Focused on optimizing traffic switchover from active to standby systems during failure scenarios, improving system reliability and performance.
+    -  Actively worked with SIP messaging protocols and OpenSIPS for call routing and signaling.
+    -  Designed and implemented a data persistence capability for the Call Detailed Recording (CDR) feature across active and standby nodes. Developed user-space applications on Linux using C++.
+    -  ' '
+    -  'Project: Communication Server'
+    -  ' '
+    -  Worked for [Ribbon Communications - C20 Call Controller](https://ribboncommunications.com/products/service-provider-products/call-controller/c20-call-controller) product on the behalf of Orion Innovation.
+    -  Worked on the platform module that underpins the communication server. Resolved gating bugs to support a successful and timely release.
+    -  Addressing issues related to software management features such as install, upgrade etc. Utilized C++ for development on a Linux environment.
 
 - company:
     name: Cavli Wireless Inc.
@@ -32,13 +38,13 @@ experiences:
     location: Remote - Turkiye
     logo: /images/sections/experiences/Cavli_Wireless_light.png
     darkLogo: /images/sections/experiences/Cavli_Wireless_dark.png
-    overview: TBD
+    #overview: TBD
   positions:
   - designation: Firmware Developer
     start: Jun 2022
     end: Nov 2022
     responsibilities:
-    - Contineued for same position.
+    - After taking a break from working for 9 months due to my severe covid disease, I started to work at the same company again for cellular iot modules project.
 
   - designation: COVID Disease Break
     start: Sep 2021
@@ -48,10 +54,13 @@ experiences:
     start: Jul 2020
     end: Aug 2021
     responsibilities:
-    - Enhanced communication capabilities and implemented communication protocol APIs, including FTP, HTTP, MQTT and SNMP. 
-    - Collaborated closely with international teams. 
-    - Successfully integrated these features into separate modules with diverse infrastructures. 
-    - Utilized C for programming to develop user space Linux and RTOS applications.
+    -  'Project: Cellular IoT Modules'
+    -  ' '
+    -  Worked for development of [Cavli Wireless - C-Series IoT Modules](https://www.cavliwireless.com/iot-modules) product.
+    -  Designed and implemented communication protocol APIs (FTP, HTTP, MQTT, etc.) for AT command interface to enhance system connectivity capabilities.
+    -  Worked on the development of a cloud-based device management system for IoT modules.
+    -  Successfully integrated these features into separate modules with diverse infrastructures.
+    -  Programmed in C for both Linux and Real-Time Operating Systems (RTOS).
 
 - company:
     name: NETAS Telecommunication Inc.
@@ -59,18 +68,19 @@ experiences:
     location: On-site - Istanbul, Turkiye
     logo: /images/sections/experiences/netas-logo-light.png
     darkLogo: /images/sections/experiences/netas-logo-dark.png
-    overview: TBD
+    #overview: TBD
 
   positions:
   - designation: Software Developer
     start: Aug 2018
     end: Jun 2020
     responsibilities:
-    -  'WebRTC – SIP Gateway'
-    -  Employed by Netas to develop Ribbon VoIP solutions. 
-    -  Developed RTP media transportation layer capabilities and performance enhancement. 
-    -  Worked with communication protocols such as SIP, WebRTC, STUN, TURN, RTP, and RTCP. 
-    -  Implemented media layer modules for user space Linux applications using C programming. 
+    -  'Project: WebRTC – SIP Gateway'
+    -  ' '
+    -  Worked for [Ribbon Communications - Kandy Link](https://learn.rbbn.com/hubfs/Corporate%20Marketing%20(TOP%20LEVEL)/Kandy/SB-Kandy-Link-Gateway.pdf) product on the behalf of Netas Telecommunication.
+    -  Developed RTP media transportation layer capabilities and performance enhancement.
+    -  Worked with communication protocols such as SIP, WebRTC, STUN, TURN, RTP, and RTCP.
+    -  Implemented media layer modules for user space Linux applications using C programming.
     -  Gained experience in Java by contributing to the development of signaling modules for the gateway.
   
   - designation: Military Service Break
@@ -81,12 +91,15 @@ experiences:
     start: Aug 2015
     end: Dec 2017
     responsibilities:
-    -  'Multi Access EDGE Computing Gateway: R&D project'
-    -  Participated in edge gateway module implementation for the newly announced MEC standard. 
-    -  Developed a NETCONF configuration module for efficient configuration management. 
-    -  Used C to develop user space applications on Linux
-    -  ''
-    -  'OneM2M IoT Gateway: R&D project'
-    -  Participated in gateway module implementation for the newly announced OneM2M standard. 
-    -  Developed registration and data storage algorithms and created. 
-    -  Used C to develop user space applications on Linux.
+    -  'Project: Multi Access EDGE Computing Gateway'
+    -  ' '
+    -  An R&D project, developed with the support of TUBITAK.
+    -  Participated in an edge gateway module implementation for the newly announced MEC standard.
+    -  Developed a NETCONF configuration module for efficient configuration management.
+    -  Used C for user space applications on Linux.
+    -  ' '
+    -  'Project: OneM2M IoT Gateway'
+    -  ' '
+    -  An R&D project, developed with the support of TUBITAK.
+    -  Participated a gateway module implementation for the newly announced OneM2M standard.
+    -  Developed registration and data storage algorithms for user space applications on Linux using C programming.
