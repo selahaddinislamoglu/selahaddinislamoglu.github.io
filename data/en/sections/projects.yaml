@@ -23,44 +23,45 @@ buttons:
 # your projects
 projects:
 - name: Avaya - Contact Center Extended Capacity
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  role: Software Developer
   url: "https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html"
   summary: Single-server solution for large contact centers supporting 30,000 agents and 60,000 UC users with up to 57,000 calls concurrently
-  tags: ["professional", "machine-learning"]
+  tags: ["professional", "avaya", "contact-center", "telecom"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: Ribbon Communications - C20 Call Controller
+  role: Software Developer
+  url: "https://ribboncommunications.com/products/service-provider-products/call-controller/c20-call-controller"
+  summary: Provides call and session control, network connectivity, switching, signaling, protocol interworking, voice and communications for service providers
+  tags: ["professional", "ribbon", "telecom", "call-controller"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Cavli Wireless - C-Series IoT Modules
+  role: Firmware Developer
+  url: "https://www.cavliwireless.com/iot-modules"
+  summary: Cavli C-Series IoT modules are enterprise grade cellular connectivity modules with built-in eSIM/iSIM technology, pre-loaded with global cellular connectivity subscriptions powered by Cavli Hubble.
+  tags: ["professional", "cavli", "iot", "firmware"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Ribbon Communications - Kandy Link
+  role: Software Developer
+  url: "https://learn.rbbn.com/hubfs/Corporate%20Marketing%20(TOP%20LEVEL)/Kandy/SB-Kandy-Link-Gateway.pdf"
+  summary: Kandy Link is a WebRTC -SIP gateway that uses REST signaling on the web side and maps the REST signaling into compliant SIP signaling on the SIP communications network side
+  tags: ["professional", "ribbon", "telecom", "webrtc", "sip"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Virtual Instrumentation Based Oscilloscope
+  role: Candidate Electronics Engineer
+  summary: The oscilloscope consist of 2 part ; signal processing card and computer interface. Data sampled in a time windows on card is displayed according to desired criteria. On the signal processing side, software was developed with C in Keil IDE. DMA and USB features of STM32F407VGT6 microcontoller was used. The computer interface was developed with C# in Visual Studio 
+  tags: ["academic", "electronics", "oscilloscope"]
+
+- name: Chess Playing Robot Arm
+  role: Electronics Engineering Student
+  summary: STM32F4 Discovery board and RaspberryPi were used. Software was developed with C on Keil IDE. STM32F4 microcontroller was used.
+  tags: ["hobby", "electronics", "robotics", "chess"]
+
+- name: Retro dotmatrix game console
+  role: Electronics Engineering Student
+  summary: Retro game console designed with 20 x 40 size Dotmatrix. PIC, ATMEL microcontrollers and MBI2056 shift registers were used.
+  tags: ["hobby", "electronics", "game-console"]
+
+- name: 8x8x8 LED cube
+  role: Electronics Engineering Student
+  summary: PIC18F4550 microcontroller and MBI2056 shift registers were used. Software was developed with C in Mplab IDE.
+  tags: ["hobby", "electronics", "led-cube"]
