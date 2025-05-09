@@ -10,14 +10,24 @@ section:
   # hideTitle: true
 
 degrees:
-- name: BSc in Electronics Engineering
-  icon: fa-microscope
+- name: Bachelor's degree in Electronics Engineering
+  icon: fa-graduation-cap
   timeframe: 2009-2014
   institution:
     name: Istanbul Technical University
     url: "https://www.itu.edu.tr"
     logo: /images/sections/education/logo_laci.png
     darkLogo: /images/sections/education/logo_beyaz.png
+  customSections:
+    - name: Graduate Project - Virtual Instrumentation Based Oscilloscope
+      content: The oscilloscope consist of 2 part ; signal processing card and computer interface. The signal data sampled in a time windows on card is displayed according to desired criteria on the computer screen.
+    - name: Internship Projects
+      content: Pool ionization system, Heart rate monitor, TURKSAT 3USAT Cube Satellite Communication Board
+    - name: Student Projects
+      content: Chess playing robot arm, Retro dotmatrix game console, 8x8x8 LED cube
+    - name: Volunteering
+      content: Head of Laboratory Committee and Executive Board Member at ITU IEEE Student Branch
+    
   #grade: #(optional)
   #  scale: CGPA
   #  achieved: 3.6

@@ -17,6 +17,8 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
+- name: Internship
+  filter: "internship"
 - name: Hobby
   filter: "hobby"
 
@@ -46,14 +48,29 @@ projects:
   summary: Kandy Link is a WebRTC -SIP gateway that uses REST signaling on the web side and maps the REST signaling into compliant SIP signaling on the SIP communications network side
   tags: ["professional", "ribbon", "telecom", "webrtc", "sip"]
 
-- name: Virtual Instrumentation Based Oscilloscope
+- name: Graduate Project - Virtual Instrumentation Based Oscilloscope
   role: Candidate Electronics Engineer
   summary: The oscilloscope consist of 2 part ; signal processing card and computer interface. Data sampled in a time windows on card is displayed according to desired criteria. On the signal processing side, software was developed with C in Keil IDE. DMA and USB features of STM32F407VGT6 microcontoller was used. The computer interface was developed with C# in Visual Studio 
   tags: ["academic", "electronics", "oscilloscope"]
 
+- name: Elecrate - Pool ionization system
+  role: Part Time Electronics Engineer
+  summary: Equipment for controlling the ionization panels used for pool cleaning system. Two cards were designed, main card and driver card. DesignSpark was used for hardware design.
+  tags: ["internship", "elecreate","electronics", "pool-ionization-system"]
+
+- name: Elecrate - Heart Rate Monitor
+  role: Electronics Engineering Student
+  summary: Software was developed with CCS C on PIC24F microcontroller. Diptrace was used for hardware design.
+  tags: ["internship", "elecreate", "electronics", "heart-rate-monitor"]
+
+- name: ITU RF Electronics Laboratory - TURKSAT 3USAT Cube Satellite Communication Board 
+  role: Electronics Engineering Student
+  summary: TI MSP430F5438A was used. C programming on Code Composer Studio 
+  tags: ["internship", "electronics", "satellite", "communication"]
+
 - name: Chess Playing Robot Arm
   role: Electronics Engineering Student
-  summary: STM32F4 Discovery board and RaspberryPi were used. Software was developed with C on Keil IDE. STM32F4 microcontroller was used.
+  summary: STM32F4 Discovery board and RaspberryPi were used. Software was developed with C on Keil IDE.
   tags: ["hobby", "electronics", "robotics", "chess"]
 
 - name: Retro dotmatrix game console
