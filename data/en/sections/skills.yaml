@@ -2,6 +2,7 @@
 section:
   name: Skills
   id: skills
+  template: sections/skills.html
   enable: true
   weight: 2
   showOnNavbar: true
@@ -11,61 +12,91 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Basic
-  filter: "basic"
+- name: Programming
+  filter: "programming"
+- name: Protocols
+  filter: "protocols"
+- name: Platforms
+  filter: "platforms"
+- name: Tools
+  filter: "tools"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
-
+- name: C
+  categories: ["programming"]
 - name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  categories: ["programming"]
+- name: Go
+  categories: ["programming"]
+- name: Java
+  categories: ["programming"]
+- name: Javascript
+  categories: ["programming"]
+- name: HTTP
+  categories: ["protocols"]
+- name: FTP
+  categories: ["protocols"]
+- name: MQTT
+  categories: ["protocols"]
+- name: SIP
+  categories: ["protocols"]
+- name: WebRTC
+  categories: ["protocols"]
+- name: SNMP
+  categories: ["protocols"]
+- name: LwM2M
+  categories: ["protocols"]
+- name: OneM2M
+  categories: ["protocols"]
+- name: NETCONF
+  categories: ["protocols"]
+- name: TCP
+  categories: ["protocols"]
+- name: UDP
+  categories: ["protocols"]
+- name: SSL
+  categories: ["protocols"]
+- name: RTP
+  categories: ["protocols"]
+- name: RTCP
+  categories: ["protocols"]
+- name: ICMP
+  categories: ["protocols"]
+- name: STUN
+  categories: ["protocols"]
+- name: TURN
+  categories: ["protocols"]
+- name: AWS Cloud
+  categories: ["platforms"]
+- name: GNU/Linux
+  categories: ["platforms"]
+- name: Docker
+  categories: ["platforms"]
+- name: OpenSIPS
+  categories: ["platforms"]
+- name: FreeRTOS
+  categories: ["platforms"]
+- name: Zephyr
+  categories: ["platforms"]
+- name: Git
+  categories: ["tools"]
+- name: GDB
+  categories: ["tools"]
+- name: Wireshark
+  categories: ["tools"]
+- name: Jira
+  categories: ["tools"]
+- name: Bitbucket
+  categories: ["tools"]
+- name: VSCode
+  categories: ["tools"]
+- name: Vim
+  categories: ["tools"]
+- name: Turkish
+  categories: ["language"]
+- name: English
+  categories: ["language"]
