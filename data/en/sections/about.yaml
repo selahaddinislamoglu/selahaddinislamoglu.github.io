@@ -36,6 +36,14 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/selahaddinislamoglu/"
 
+- name: HackerRank
+  icon: "fab fa-hackerrank"
+  url: "https://www.hackerrank.com/profile/islamoglu"
+
+- name: Roadmap.sh
+  icon: "fas fa-road"
+  url: "https://roadmap.sh/u/selahaddinislamoglu"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:

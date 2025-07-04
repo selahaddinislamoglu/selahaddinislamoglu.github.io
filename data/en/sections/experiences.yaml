@@ -7,6 +7,22 @@ section:
 
 experiences:
 - company:
+    name: Career Transition
+  positions:
+  - designation: Backend Developer Candidate
+    start: Apr 2025
+    responsibilities:
+    -  'Transitioning into Backend Development with Go'
+    -  ' '
+    -  Taking time to focus on a career transition into backend development.
+    -  Building expertise in Go language fundamentals, concurrency, and standard libraries through continuous learning and hands-on practice.
+    -  Learning to design and implement RESTful APIs and gRPC services using popular Go frameworks such as Gin, Fiber, and Echo.
+    -  Exploring Go-specific libraries and tools including GORM (ORM), sqlx, Cobra (CLI), Viper (configuration), Zap/Logrus (logging), and testing frameworks like Testify.
+    -  Gaining experience with SQL and NoSQL databases (PostgreSQL, MongoDB, Redis), caching mechanisms, and message brokers like RabbitMQ and Kafka.
+    -  Deepening knowledge of backend practices including microservices architecture and cloud-native development to build modern, maintainable applications.
+    -  You can track my learning journey and projects through my [Developer Roadmap](https://github.com/selahaddinislamoglu/developer-roadmap), explore my code on [GitHub](https://github.com/selahaddinislamoglu), and view my algorithm practice on [HackerRank](https://www.hackerrank.com/selahaddinislamoglu).
+
+- company:
     name: Orion Innovation Inc.
     url: "https://www.orioninc.com/"
     location: Remote - Turkiye
