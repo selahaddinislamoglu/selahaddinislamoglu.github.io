@@ -14,7 +14,7 @@ experiences:
     darkLogo: /images/sections/experiences/orion-dark.png
     #overview: TBD
   positions:
-  - designation: Software Developer
+  - designation: Senior Software Developer
     start: Jul 2023
     end: Mar 2025
     responsibilities:
@@ -40,7 +40,7 @@ experiences:
     darkLogo: /images/sections/experiences/Cavli_Wireless_dark.png
     #overview: TBD
   positions:
-  - designation: Firmware Developer
+  - designation: Senior Firmware Developer
     start: Jun 2022
     end: Nov 2022
     responsibilities:
@@ -50,7 +50,7 @@ experiences:
     start: Sep 2021
     end: May 2022
 
-  - designation: Firmware Developer
+  - designation: Senior Firmware Developer
     start: Jul 2020
     end: Aug 2021
     responsibilities:
