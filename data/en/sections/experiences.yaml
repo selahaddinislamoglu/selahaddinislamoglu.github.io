@@ -7,21 +7,19 @@ section:
 
 experiences:
 - company:
-    name: Career Transition
+    name: Self-Development & Career Growth
     location: Remote - Turkiye
   positions:
-  - designation: Backend Developer Candidate
+  - designation: Software Developer
     start: Apr 2025
     responsibilities:
-    -  'Transitioning into Backend Development with Go'
-    -  ' '
-    -  Taking time to focus on a career transition into backend development.
-    -  Building expertise in Go language fundamentals, concurrency, and standard libraries through continuous learning and hands-on practice.
-    -  Learning to design and implement RESTful APIs and gRPC services using popular Go frameworks such as Gin, Fiber, and Echo.
-    -  Exploring Go-specific libraries and tools including GORM (ORM), sqlx, Cobra (CLI), Viper (configuration), Zap/Logrus (logging), and testing frameworks like Testify.
-    -  Gaining experience with SQL and NoSQL databases (PostgreSQL, MongoDB, Redis), caching mechanisms, and message brokers like RabbitMQ and Kafka.
-    -  Deepening knowledge of backend practices including microservices architecture and cloud-native development to build modern, maintainable applications.
-    -  You can track my learning journey and projects through my [Developer Roadmap](https://github.com/selahaddinislamoglu/developer-roadmap), explore my code on [GitHub](https://github.com/selahaddinislamoglu), and view my algorithm practice on [HackerRank](https://www.hackerrank.com/selahaddinislamoglu).
+    - Investing dedicated time in structured self-development to strengthen technical skills.
+    - Building a solid foundation in C++ and Go, focusing on language fundamentals, clean coding practices, and real-world applications.
+    - Strengthening software development fundamentals, including data structures, algorithms, design patterns, and version control.
+    - Exploring software engineering concepts such as system design, APIs, and modern backend practices.
+    - Applying learning through hands-on projects to deepen practical understanding.
+    - Expanding knowledge of tools, frameworks, and libraries within C++ and Go ecosystems.
+    -  You can track my learning journey from [Developer Roadmap](https://github.com/selahaddinislamoglu/developer-roadmap), [GitHub](https://github.com/selahaddinislamoglu), and [HackerRank](https://www.hackerrank.com/selahaddinislamoglu) profiles.
 
 - company:
     name: Orion Innovation Inc.

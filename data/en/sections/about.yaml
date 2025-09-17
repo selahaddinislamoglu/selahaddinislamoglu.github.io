@@ -44,6 +44,14 @@ socialLinks:
   icon: "fas fa-road"
   url: "https://roadmap.sh/u/selahaddinislamoglu"
 
+- name: LeetCode
+  icon: "fas fa-code"
+  url: "https://leetcode.com/u/selahaddinislamoglu/"
+
+- name: Linktree
+  icon: "fas fa-link"
+  url: "https://linktr.ee/selahaddinislamoglu"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
