@@ -7,18 +7,41 @@ section:
 
 experiences:
 - company:
+    name: ng-voice GmbH
+    url: "https://www.ng-voice.com/"
+    location: Remote - Turkiye
+    logo: /images/sections/experiences/ng-voice-logo-colour.png
+    darkLogo: /images/sections/experiences/ng-voice-logo-white.png
+  positions:
+  - designation: Software Developer - Contract
+    start: Dec 2025
+    end: Apr 2026
+    responsibilities:
+    -  'Project: Cloud-native IMS Core Platform'
+    -  ' '  
+    -  Worked for [ng-voice - The Hyperscale IMS Solution](https://www.ng-voice.com/#Solution) product.
+    -  Worked on IMS core network architecture, with focus on telecom signaling, service interaction, and charging systems (Diameter, SIP-based IMS architecture).
+    -  Developed FreeDiameter extensions implementing load balancing and session stickiness, enabling scalable and highly available routing of Diameter charging traffic.
+    -  Contributed to online charging system (OCS) integration, troubleshooting, and system-level enhancements, improving Diameter charging message flows, integration stability, and overall system reliability in production-like environments.
+    -  Developed MMTel (Multimedia Telephony) announcement features supporting multiple call scenarios, enhancing IMS voice service delivery and end-user experience in telephony services.
+    -  Performed integration testing and system validation, using Docker and Kubernetes in cloud-native containerized telecom environments.
+    -  Developed and extended C-based SIP core components (OpenSIPS, Kamailio), improving SIP routing logic, call handling, and signaling performance within IMS infrastructure.
+                        
+
+- company:
     name: Self-Development & Career Growth
     location: Remote - Turkiye
   positions:
   - designation: Software Developer
     start: Apr 2025
+    end: Dec 2025
     responsibilities:
-    - Investing dedicated time in structured self-development to strengthen technical skills.
-    - Building a solid foundation in C++ and Go, focusing on language fundamentals, clean coding practices, and real-world applications.
-    - Strengthening software development fundamentals, including data structures, algorithms, design patterns, and version control.
-    - Exploring software engineering concepts such as system design, APIs, and modern backend practices.
-    - Applying learning through hands-on projects to deepen practical understanding.
-    - Expanding knowledge of tools, frameworks, and libraries within C++ and Go ecosystems.
+    -  Investing dedicated time in structured self-development to strengthen technical skills.
+    -  Building a solid foundation in C++ and Go, focusing on language fundamentals, clean coding practices, and real-world applications.
+    -  Strengthening software development fundamentals, including data structures, algorithms, design patterns, and version control.
+    -  Exploring software engineering concepts such as system design, APIs, and modern backend practices.
+    -  Applying learning through hands-on projects to deepen practical understanding.
+    -  Expanding knowledge of tools, frameworks, and libraries within C++ and Go ecosystems.
     -  You can track my learning journey from [Developer Roadmap](https://github.com/selahaddinislamoglu/developer-roadmap), [GitHub](https://github.com/selahaddinislamoglu), and [HackerRank](https://www.hackerrank.com/selahaddinislamoglu) profiles.
 
 - company:
@@ -29,7 +52,7 @@ experiences:
     darkLogo: /images/sections/experiences/orion-dark.png
     #overview: TBD
   positions:
-  - designation: Senior Software Developer
+  - designation: Software Developer
     start: Jul 2023
     end: Mar 2025
     responsibilities:
@@ -55,17 +78,17 @@ experiences:
     darkLogo: /images/sections/experiences/Cavli_Wireless_dark.png
     #overview: TBD
   positions:
-  - designation: Senior Firmware Developer
+  - designation: Firmware Developer
     start: Jun 2022
     end: Nov 2022
     responsibilities:
-    - After taking a break from working for 9 months due to my severe covid disease, I started to work at the same company again for cellular iot modules project.
+    -  After taking a break from working for 9 months due to my severe covid disease, I started to work at the same company again for cellular iot modules project.
 
   - designation: COVID Disease Break
     start: Sep 2021
     end: May 2022
 
-  - designation: Senior Firmware Developer
+  - designation: Firmware Developer
     start: Jul 2020
     end: Aug 2021
     responsibilities:

@@ -46,6 +46,8 @@ skills:
   categories: ["protocols"]
 - name: WebRTC
   categories: ["protocols"]
+- name: Diameter
+  categories: ["protocols"]
 - name: SNMP
   categories: ["protocols"]
 - name: LwM2M
@@ -78,9 +80,15 @@ skills:
   categories: ["platforms"]
 - name: OpenSIPS
   categories: ["platforms"]
+- name: Kamailio
+  categories: ["platforms"]
 - name: FreeRTOS
   categories: ["platforms"]
 - name: Zephyr
+  categories: ["platforms"]
+- name: Prometheus
+  categories: ["platforms"]
+- name: Grafana
   categories: ["platforms"]
 - name: Git
   categories: ["tools"]
@@ -95,6 +103,32 @@ skills:
 - name: VSCode
   categories: ["tools"]
 - name: Vim
+  categories: ["tools"]
+- name: Jenkins
+  categories: ["tools"]
+- name: Make
+  categories: ["tools"]
+- name: CMake
+  categories: ["tools"]
+- name: Go Modules
+  categories: ["tools"]
+- name: GCC
+  categories: ["tools"]
+- name: GDB
+  categories: ["tools"]
+- name: Valgrind
+  categories: ["tools"]
+- name: Postman
+  categories: ["tools"]
+- name: curl
+  categories: ["tools"]
+- name: strace
+  categories: ["tools"]
+- name: tcpdump
+  categories: ["tools"]
+- name: kubectl
+  categories: ["tools"]
+- name: helm
   categories: ["tools"]
 - name: Turkish
   categories: ["language"]
