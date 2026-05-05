@@ -12,31 +12,91 @@ section:
 
 # filter buttons
 buttons:
-- name: Programming
-  filter: "programming"
+- name: Languages
+  filter: "languages"
+- name: System
+  filter: "system"
+- name: Backend
+  filter: "backend"
+- name: Telecom
+  filter: "telecom"
 - name: Protocols
   filter: "protocols"
 - name: Platforms
   filter: "platforms"
+- name: Libraries
+  filter: "libraries"
 - name: Tools
   filter: "tools"
-- name: Language
-  filter: "language"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
 - name: C
-  categories: ["programming"]
+  categories: ["languages"]
 - name: C++
-  categories: ["programming"]
+  categories: ["languages"]
 - name: Go
-  categories: ["programming"]
+  categories: ["languages"]
+- name: Bash
+  categories: ["languages"]
+- name: SQL
+  categories: ["languages"]
 - name: Java
-  categories: ["programming"]
+  categories: ["languages"]
 - name: Javascript
-  categories: ["programming"]
+  categories: ["languages"]
+- name: POSIX APIs
+  categories: ["system"]
+- name: multithreading
+  categories: ["system"]
+- name: inter-process communication (IPC)
+  categories: ["system"]
+- name: synchronization (mutexes, condition variables)
+  categories: ["system"]
+- name: socket programming (TCP/UDP/raw sockets)
+  categories: ["system"]
+- name: memory management
+  categories: ["system"]
+- name: RESTful APIs
+  categories: ["backend"]
+- name: gRPC
+  categories: ["backend"]
+- name: GraphQL
+  categories: ["backend"]
+- name: JWT
+  categories: ["backend"]
+- name: authentication
+  categories: ["backend"]
+- name: authorization
+  categories: ["backend"]
+- name: database integration (SQL/NoSQL)
+  categories: ["backend"]
+- name: message queues
+  categories: ["backend"]
+- name: telemetry
+  categories: ["backend"]
+- name: load balancing
+  categories: ["backend"]
+- name: microservices
+  categories: ["backend"]
+- name: serverless architecture
+  categories: ["backend"]
+- name: SIP signaling
+  categories: ["telecom"]
+- name: IMS (IP Multimedia Subsystem) core architecture
+  categories: ["telecom"]
+- name: Online charging systems (OCS)
+  categories: ["telecom"]
+- name: MMTel (Multimedia Telephony) applications
+  categories: ["telecom"]
+- name: RTP/RTCP media transport
+  categories: ["telecom"]
+- name: STUN/TURN NAT traversal 
+  categories: ["telecom"]
 - name: HTTP
+  categories: ["protocols"]
+- name: WS
   categories: ["protocols"]
 - name: FTP
   categories: ["protocols"]
@@ -90,6 +150,40 @@ skills:
   categories: ["platforms"]
 - name: Grafana
   categories: ["platforms"]
+- name: glibc
+  categories: ["libraries"]
+- name: pthread
+  categories: ["libraries"]
+- name: libcurl
+  categories: ["libraries"]
+- name: libwebsockets
+  categories: ["libraries"]
+- name: libevent
+  categories: ["libraries"]
+- name: OpenSSL
+  categories: ["libraries"]
+- name: mbedTLS
+  categories: ["libraries"]
+- name: ncurses
+  categories: ["libraries"]
+- name: freeDiameter
+  categories: ["libraries"]
+- name: Gin
+  categories: ["libraries"]
+- name: Fiber
+  categories: ["libraries"]
+- name: Gorilla Mux
+  categories: ["libraries"]
+- name: GORM
+  categories: ["libraries"]
+- name: Cobra
+  categories: ["libraries"]
+- name: Viper
+  categories: ["libraries"]
+- name: Zerolog
+  categories: ["libraries"]
+- name: Testify
+  categories: ["libraries"]
 - name: Git
   categories: ["tools"]
 - name: GDB
@@ -130,7 +224,3 @@ skills:
   categories: ["tools"]
 - name: helm
   categories: ["tools"]
-- name: Turkish
-  categories: ["language"]
-- name: English
-  categories: ["language"]
