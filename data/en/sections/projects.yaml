@@ -22,20 +22,27 @@ buttons:
 
 # your projects
 projects:
+- name: ng-voice - The Hyperscale IMS Solution
+  role: Software Developer
+  url: "https://www.ng-voice.com/#Solution"
+  summary: Cloud-native software solution designed to deliver carrier-grade voice services (VoLTE, VoNR, and VoWiFi) for 4G and 5G networks. It is built specifically to address the high costs and complexity associated with legacy IMS hardware.
+  tags: ["professional", "ng-voice", "ims", "telecom"]
+
+projects:
 - name: Avaya - Contact Center Extended Capacity
-  role: Senior Software Developer
+  role: Software Developer
   url: "https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html"
   summary: Single-server solution for large contact centers supporting 30,000 agents and 60,000 UC users with up to 57,000 calls concurrently
   tags: ["professional", "avaya", "contact-center", "telecom"]
 
 - name: Ribbon Communications - C20 Call Controller
-  role: Senior Software Developer
+  role: Software Developer
   url: "https://ribboncommunications.com/products/service-provider-products/call-controller/c20-call-controller"
   summary: Provides call and session control, network connectivity, switching, signaling, protocol interworking, voice and communications for service providers
   tags: ["professional", "ribbon", "telecom", "call-controller"]
 
 - name: Cavli Wireless - C-Series IoT Modules
-  role: Senior Firmware Developer
+  role: Firmware Developer
   url: "https://www.cavliwireless.com/iot-modules"
   summary: Cavli C-Series IoT modules are enterprise grade cellular connectivity modules with built-in eSIM/iSIM technology, pre-loaded with global cellular connectivity subscriptions powered by Cavli Hubble.
   tags: ["professional", "cavli", "iot", "firmware"]
