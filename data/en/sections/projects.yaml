@@ -28,7 +28,6 @@ projects:
   summary: Cloud-native software solution designed to deliver carrier-grade voice services (VoLTE, VoNR, and VoWiFi) for 4G and 5G networks. It is built specifically to address the high costs and complexity associated with legacy IMS hardware.
   tags: ["professional", "ng-voice", "ims", "telecom"]
 
-projects:
 - name: Avaya - Contact Center Extended Capacity
   role: Software Developer
   url: "https://documentation.avaya.com/bundle/AvayaContactCenterExtendedCapacitySolutionDescription_r102/page/Routing_Core_overview.html"
